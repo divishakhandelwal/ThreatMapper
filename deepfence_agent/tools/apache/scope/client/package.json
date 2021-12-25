@@ -45,7 +45,7 @@
     "reselect-map": "1.0.4",
     "styled-components": "4.3.2",
     "weaveworks-ui-components": "^0.22.6",
-    "whatwg-fetch": "3.0.0",
+    "whatwg-fetch": "3.6.2",
     "xterm": "3.14.5"
   },
   "devDependencies": {
