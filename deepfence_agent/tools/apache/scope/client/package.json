@@ -41,7 +41,7 @@
     "redux-logger": "3.0.6",
     "redux-thunk": "2.3.0",
     "reqwest": "2.0.5",
-    "reselect": "4.0.0",
+    "reselect": "4.1.5",
     "reselect-map": "1.0.4",
     "styled-components": "4.3.2",
     "weaveworks-ui-components": "^0.22.6",
