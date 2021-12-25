@@ -220,10 +220,24 @@
     "@antv/util" "~2.0.5"
     tslib "^2.0.0"
 
-"@antv/g2plot@^2.2.11", "@antv/g2plot@^2.3.33":
+"@antv/g2plot@^2.2.11":
   version "2.3.36"
   resolved "https://registry.yarnpkg.com/@antv/g2plot/-/g2plot-2.3.36.tgz#fc29841931237285fb44b3da1a753d53fee68222"
   integrity sha512-0exj+s1CL8EWOkle+JTk93XZ80qFjni/7NP642D/xGC+NHBZmWF1pg8lkdz0IXNyZorXnx5mQChJQbMCidBcqg==
+  dependencies:
+    "@antv/event-emitter" "^0.1.2"
+    "@antv/g2" "^4.1.26"
+    d3-hierarchy "^2.0.0"
+    d3-regression "^1.3.5"
+    fmin "^0.0.2"
+    pdfast "^0.2.0"
+    size-sensor "^1.0.1"
+    tslib "^2.0.3"
+
+"@antv/g2plot@^2.3.40":
+  version "2.4.4"
+  resolved "https://registry.yarnpkg.com/@antv/g2plot/-/g2plot-2.4.4.tgz#7a73ec743c3b85d4640cd409f2e3bf8754c725ff"
+  integrity sha512-xZj8Lp8983fJr3nEZuYWgLzo7QDAcDU43R51Weeo/Uv+kkELaWR7dEOcG258GQsgSMVn37dVBlO1dWGsbbEALA==
   dependencies:
     "@antv/event-emitter" "^0.1.2"
     "@antv/g2" "^4.1.26"
