@@ -21,7 +21,7 @@ sqlalchemy==1.4.28
 sqlalchemy-utils==0.37.9
 pypd==1.1.0
 hurry.filesize==0.9
-pycryptodome==3.12.0
+pycryptodome==3.19.1
 netaddr==0.8.0
 certifi==2021.10.8
 chardet==4.0.0
@@ -49,3 +49,4 @@ kubernetes==21.7.0
 pdfkit==1.0.0
 jsonschema==4.3.1
 networkx==2.6.3
+pillow>=10.2.0 # not directly required, pinned by Snyk to avoid a vulnerability
