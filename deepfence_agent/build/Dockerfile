@@ -1,4 +1,4 @@
-FROM golang:1.17-bullseye
+FROM golang:1.22.6-bullseye
 
 RUN apt-get update
 RUN apt-get install -y bash make git gcc libc-dev
