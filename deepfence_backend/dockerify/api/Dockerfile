@@ -11,7 +11,7 @@ RUN go build -o websocket_client websocket_client.go helper.go main.go node_util
 
 FROM steampipe_build:latest AS steampipe-build
 
-FROM python:3.9-slim-bullseye
+FROM python:3.12.7-slim-bullseye
 LABEL deepfence.role=system
 
 ENV PYTHONUNBUFFERED=1 \
