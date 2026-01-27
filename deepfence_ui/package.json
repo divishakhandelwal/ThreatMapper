@@ -18,7 +18,7 @@
     "font-awesome": "4.7.0",
     "group-array": "^0.3.3",
     "immutable": "^3.8.2",
-    "lodash": "^4.17.20",
+    "lodash": "^4.17.23",
     "lucene-queryparser": "^3.0.0",
     "moment": "^2.24.0",
     "page": "^1.11.4",
